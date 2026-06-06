@@ -2,6 +2,17 @@
 
 **By Kylan Huynh**
 
+### Overall components of this website
+
+1. [Introduction](#introduction)
+2. [Data Cleaning and Exploratory Data Analysis](#data-cleaning-and-exploratory-data-analysis)
+3. [Assessment of Missingness](#assessment-of-missingness)
+4. [Hypothesis Testing](#hypothesis-testing)
+5. [Framing a Prediction Problem](#framing-a-prediction-problem)
+6. [Baseline Model](#baseline-model)
+7. [Final Model](#final-model)
+8. [Fairness Analysis](#fairness-analysis)
+
 ---
 
 ## Introduction
